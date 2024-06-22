@@ -121,3 +121,5 @@ const SignUp = () => {
 };
 
 export default SignUp;
+
+// CREATE AND ADD THE FOOTER COMPONENT: 2:21:23
