@@ -23,11 +23,11 @@ const FooterComp = () => {
               <Footer.Title title="About" />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href="https://www.youtube.com"
+                  href="https://www.google.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  100 JS Projects
+                  My MERN Projects
                 </Footer.Link>
                 <Footer.Link href="" target="_blank" rel="noopener noreferrer">
                   Ruchi's Blog
